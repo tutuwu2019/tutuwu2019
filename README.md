@@ -8,4 +8,5 @@ Here are some ideas to get you started:
 -  my tips  c/c++、python、shell、go、js...
 -  How to reach me: zhangbuda7788@gmail.com
 -  my blog: [zhangbuda blog](https://tutuwu2019.github.io/)
+-  my [twitter/x](https://x.com/zhangbuda_23)
 
